@@ -23,33 +23,6 @@
 - 🎓 Certified in **Web Development with PHP & Laravel** (Ostad)
 - 📍 Feni, Bangladesh
 
-## 🚀 Featured Work
-
-| Project | What I built | Live |
-|---|---|---|
-| **Monkbot — Stift Lambach** | WordPress site + AI chatbot monk for an Austrian monastery, 374+ visitor conversations | [monkbot.ai](https://monkbot.ai/) |
-| **Meyrin Basket** | Dynamic Elementor + Crocoblock site for a Swiss basketball club with 400+ members | [meyrin-basket.ch](https://meyrin-basket.ch/) |
-| **Le Spot Halal** | Restaurant directory with search, city filters, ratings and listing badges | [lespothalal.com](https://lespothalal.com/) |
-
-## 🧰 Free Tools I Built
-
-**Browser tools** (free, private, nothing to install)
-
-| Tool | What it does | Try it |
-|---|---|---|
-| **[🗜️ Squeezy](https://github.com/aliakbarrme/squeezy-image-compressor)** | Compress images & convert to WebP, 80–90% smaller, nothing uploaded | [Live demo](https://aliakbarrme.github.io/squeezy-image-compressor/) |
-| **[🧾 QuickInvoice](https://github.com/aliakbarrme/quick-invoice)** | Professional invoices with tax, discount & logo, saved as PDF | [Live demo](https://aliakbarrme.github.io/quick-invoice/) |
-| **[🎨 Palette Studio](https://github.com/aliakbarrme/elementor-palette-studio)** | One brand color → full palette, font pair & Elementor Global values | [Live demo](https://aliakbarrme.github.io/elementor-palette-studio/) |
-| **[✍️ Proposal Helper](https://github.com/aliakbarrme/freelance-proposal-helper)** | Paste a job post → tailored, client-focused proposal draft | [Live demo](https://aliakbarrme.github.io/freelance-proposal-helper/) |
-
-**WordPress plugins** (free, GPL)
-
-| Plugin | What it does |
-|---|---|
-| **[🤖 AI FAQ Chatbot Lite](https://github.com/aliakbarrme/ai-faq-chatbot-lite)** | Chat widget that answers visitors from your FAQ 24/7, optional OpenAI answers |
-| **[🟢 WhatsApp Order Button](https://github.com/aliakbarrme/whatsapp-order-button)** | WooCommerce "Order on WhatsApp" with product, qty, variation & price pre-filled |
-| **[🩺 Site Health Mini Dashboard](https://github.com/aliakbarrme/site-health-mini-dashboard)** | One widget with a 0–100 score: updates, heavy images, alt text, SSL, PHP |
-
 ## 💻 Tech Stack
 
 **CMS & Builders**
@@ -72,6 +45,29 @@
 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![AI Chatbots](https://img.shields.io/badge/AI_Chatbots-111111?style=for-the-badge&logo=probot&logoColor=white)
+
+## 🧰 Free Tools I Built
+
+<p align="center"><i>Hover a button to see what it does · click to open</i></p>
+
+<h3 align="center">🌐 Browser tools · free, private, nothing to install</h3>
+<p align="center">
+  <a href="https://aliakbarrme.github.io/squeezy-image-compressor/" title="Squeezy: compress images and convert them to WebP, 80–90% smaller. Runs in your browser, nothing is uploaded."><img src="assets/squeezy.svg" width="380" alt="Squeezy – live demo" title="Squeezy: compress images and convert them to WebP, 80–90% smaller. Runs in your browser, nothing is uploaded." /></a>
+  <a href="https://aliakbarrme.github.io/quick-invoice/" title="QuickInvoice: professional invoices with tax, discount and your logo, saved as PDF. No sign-up."><img src="assets/quick-invoice.svg" width="380" alt="QuickInvoice – live demo" title="QuickInvoice: professional invoices with tax, discount and your logo, saved as PDF. No sign-up." /></a>
+</p>
+<p align="center">
+  <a href="https://aliakbarrme.github.io/elementor-palette-studio/" title="Palette Studio: one brand color gives a full website palette, font pair, contrast check and Elementor Global Colors &amp; Fonts."><img src="assets/palette-studio.svg" width="380" alt="Palette Studio – live demo" title="Palette Studio: one brand color gives a full website palette, font pair, contrast check and Elementor Global Colors &amp; Fonts." /></a>
+  <a href="https://aliakbarrme.github.io/freelance-proposal-helper/" title="Proposal Helper: paste a job post and get a tailored, client-focused proposal draft. Detects skills, questions and hidden keywords."><img src="assets/proposal-helper.svg" width="380" alt="Proposal Helper – live demo" title="Proposal Helper: paste a job post and get a tailored, client-focused proposal draft. Detects skills, questions and hidden keywords." /></a>
+</p>
+
+<h3 align="center">🔌 WordPress plugins · free, GPL</h3>
+<p align="center">
+  <a href="https://github.com/aliakbarrme/ai-faq-chatbot-lite" title="AI FAQ Chatbot Lite: a chat widget that answers visitors from your FAQ 24/7. Works without any API; optional OpenAI answers grounded in your FAQ."><img src="assets/ai-faq-chatbot.svg" width="380" alt="AI FAQ Chatbot Lite – GitHub" title="AI FAQ Chatbot Lite: a chat widget that answers visitors from your FAQ 24/7. Works without any API; optional OpenAI answers grounded in your FAQ." /></a>
+  <a href="https://github.com/aliakbarrme/whatsapp-order-button" title="WhatsApp Order Button: WooCommerce button that sends product, size, quantity and price to your WhatsApp in one tap. Plus a floating chat button."><img src="assets/whatsapp-order.svg" width="380" alt="WhatsApp Order Button – GitHub" title="WhatsApp Order Button: WooCommerce button that sends product, size, quantity and price to your WhatsApp in one tap. Plus a floating chat button." /></a>
+</p>
+<p align="center">
+  <a href="https://github.com/aliakbarrme/site-health-mini-dashboard" title="Site Health Mini Dashboard: one admin widget with a 0–100 score for updates, heavy images, missing alt text, SSL, PHP and debug mode."><img src="assets/site-health.svg" width="380" alt="Site Health Mini Dashboard – GitHub" title="Site Health Mini Dashboard: one admin widget with a 0–100 score for updates, heavy images, missing alt text, SSL, PHP and debug mode." /></a>
+</p>
 
 ## 🤝 Let's Work Together
 
