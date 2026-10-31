@@ -31,6 +31,12 @@
 | **Meyrin Basket** | Dynamic Elementor + Crocoblock site for a Swiss basketball club with 400+ members | [meyrin-basket.ch](https://meyrin-basket.ch/) |
 | **Le Spot Halal** | Restaurant directory with search, city filters, ratings and listing badges | [lespothalal.com](https://lespothalal.com/) |
 
+## 🧰 Free Tools I Built
+
+| Tool | What it does | Try it |
+|---|---|---|
+| **[🗜️ Squeezy](https://github.com/Aliakbar45480/squeezy-image-compressor)** | Compress images & convert to WebP in the browser, 80–90% smaller, nothing uploaded | [Live demo](https://aliakbar45480.github.io/squeezy-image-compressor/) |
+
 ## 💻 Tech Stack
 
 **CMS & Builders**
