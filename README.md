@@ -37,18 +37,18 @@
 
 | Tool | What it does | Try it |
 |---|---|---|
-| **[🗜️ Squeezy](https://github.com/Aliakbar45480/squeezy-image-compressor)** | Compress images & convert to WebP, 80–90% smaller, nothing uploaded | [Live demo](https://aliakbar45480.github.io/squeezy-image-compressor/) |
-| **[🧾 QuickInvoice](https://github.com/Aliakbar45480/quick-invoice)** | Professional invoices with tax, discount & logo, saved as PDF | [Live demo](https://aliakbar45480.github.io/quick-invoice/) |
-| **[🎨 Palette Studio](https://github.com/Aliakbar45480/elementor-palette-studio)** | One brand color → full palette, font pair & Elementor Global values | [Live demo](https://aliakbar45480.github.io/elementor-palette-studio/) |
-| **[✍️ Proposal Helper](https://github.com/Aliakbar45480/freelance-proposal-helper)** | Paste a job post → tailored, client-focused proposal draft | [Live demo](https://aliakbar45480.github.io/freelance-proposal-helper/) |
+| **[🗜️ Squeezy](https://github.com/aliakbarrme/squeezy-image-compressor)** | Compress images & convert to WebP, 80–90% smaller, nothing uploaded | [Live demo](https://aliakbarrme.github.io/squeezy-image-compressor/) |
+| **[🧾 QuickInvoice](https://github.com/aliakbarrme/quick-invoice)** | Professional invoices with tax, discount & logo, saved as PDF | [Live demo](https://aliakbarrme.github.io/quick-invoice/) |
+| **[🎨 Palette Studio](https://github.com/aliakbarrme/elementor-palette-studio)** | One brand color → full palette, font pair & Elementor Global values | [Live demo](https://aliakbarrme.github.io/elementor-palette-studio/) |
+| **[✍️ Proposal Helper](https://github.com/aliakbarrme/freelance-proposal-helper)** | Paste a job post → tailored, client-focused proposal draft | [Live demo](https://aliakbarrme.github.io/freelance-proposal-helper/) |
 
 **WordPress plugins** (free, GPL)
 
 | Plugin | What it does |
 |---|---|
-| **[🤖 AI FAQ Chatbot Lite](https://github.com/Aliakbar45480/ai-faq-chatbot-lite)** | Chat widget that answers visitors from your FAQ 24/7, optional OpenAI answers |
-| **[🟢 WhatsApp Order Button](https://github.com/Aliakbar45480/whatsapp-order-button)** | WooCommerce "Order on WhatsApp" with product, qty, variation & price pre-filled |
-| **[🩺 Site Health Mini Dashboard](https://github.com/Aliakbar45480/site-health-mini-dashboard)** | One widget with a 0–100 score: updates, heavy images, alt text, SSL, PHP |
+| **[🤖 AI FAQ Chatbot Lite](https://github.com/aliakbarrme/ai-faq-chatbot-lite)** | Chat widget that answers visitors from your FAQ 24/7, optional OpenAI answers |
+| **[🟢 WhatsApp Order Button](https://github.com/aliakbarrme/whatsapp-order-button)** | WooCommerce "Order on WhatsApp" with product, qty, variation & price pre-filled |
+| **[🩺 Site Health Mini Dashboard](https://github.com/aliakbarrme/site-health-mini-dashboard)** | One widget with a 0–100 score: updates, heavy images, alt text, SSL, PHP |
 
 ## 💻 Tech Stack
 
