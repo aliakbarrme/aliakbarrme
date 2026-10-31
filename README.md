@@ -48,25 +48,21 @@
 
 ## 🧰 Free Tools I Built
 
-<p align="center"><i>Hover a button to see what it does · click to open</i></p>
+<p align="center"><sub><i>Hover a button to see what it does · click to open</i></sub></p>
 
 <h3 align="center">🌐 Browser tools · free, private, nothing to install</h3>
 <p align="center">
-  <a href="https://aliakbarrme.github.io/squeezy-image-compressor/" title="Squeezy: compress images and convert them to WebP, 80–90% smaller. Runs in your browser, nothing is uploaded."><img src="assets/squeezy.svg" width="380" alt="Squeezy – live demo" title="Squeezy: compress images and convert them to WebP, 80–90% smaller. Runs in your browser, nothing is uploaded." /></a>
-  <a href="https://aliakbarrme.github.io/quick-invoice/" title="QuickInvoice: professional invoices with tax, discount and your logo, saved as PDF. No sign-up."><img src="assets/quick-invoice.svg" width="380" alt="QuickInvoice – live demo" title="QuickInvoice: professional invoices with tax, discount and your logo, saved as PDF. No sign-up." /></a>
-</p>
-<p align="center">
-  <a href="https://aliakbarrme.github.io/elementor-palette-studio/" title="Palette Studio: one brand color gives a full website palette, font pair, contrast check and Elementor Global Colors &amp; Fonts."><img src="assets/palette-studio.svg" width="380" alt="Palette Studio – live demo" title="Palette Studio: one brand color gives a full website palette, font pair, contrast check and Elementor Global Colors &amp; Fonts." /></a>
-  <a href="https://aliakbarrme.github.io/freelance-proposal-helper/" title="Proposal Helper: paste a job post and get a tailored, client-focused proposal draft. Detects skills, questions and hidden keywords."><img src="assets/proposal-helper.svg" width="380" alt="Proposal Helper – live demo" title="Proposal Helper: paste a job post and get a tailored, client-focused proposal draft. Detects skills, questions and hidden keywords." /></a>
+  <a href="https://aliakbarrme.github.io/squeezy-image-compressor/" title="Squeezy: compress images and convert them to WebP, 80–90% smaller. Runs in your browser, nothing is uploaded."><img src="assets/squeezy.svg" alt="Squeezy – live demo" title="Squeezy: compress images and convert them to WebP, 80–90% smaller. Runs in your browser, nothing is uploaded." /></a>
+  <a href="https://aliakbarrme.github.io/quick-invoice/" title="QuickInvoice: professional invoices with tax, discount and your logo, saved as PDF. No sign-up."><img src="assets/quick-invoice.svg" alt="QuickInvoice – live demo" title="QuickInvoice: professional invoices with tax, discount and your logo, saved as PDF. No sign-up." /></a>
+  <a href="https://aliakbarrme.github.io/elementor-palette-studio/" title="Palette Studio: one brand color gives a full website palette, font pair, contrast check and Elementor Global Colors &amp; Fonts."><img src="assets/palette-studio.svg" alt="Palette Studio – live demo" title="Palette Studio: one brand color gives a full website palette, font pair, contrast check and Elementor Global Colors &amp; Fonts." /></a>
+  <a href="https://aliakbarrme.github.io/freelance-proposal-helper/" title="Proposal Helper: paste a job post and get a tailored, client-focused proposal draft. Detects skills, questions and hidden keywords."><img src="assets/proposal-helper.svg" alt="Proposal Helper – live demo" title="Proposal Helper: paste a job post and get a tailored, client-focused proposal draft. Detects skills, questions and hidden keywords." /></a>
 </p>
 
 <h3 align="center">🔌 WordPress plugins · free, GPL</h3>
 <p align="center">
-  <a href="https://github.com/aliakbarrme/ai-faq-chatbot-lite" title="AI FAQ Chatbot Lite: a chat widget that answers visitors from your FAQ 24/7. Works without any API; optional OpenAI answers grounded in your FAQ."><img src="assets/ai-faq-chatbot.svg" width="380" alt="AI FAQ Chatbot Lite – GitHub" title="AI FAQ Chatbot Lite: a chat widget that answers visitors from your FAQ 24/7. Works without any API; optional OpenAI answers grounded in your FAQ." /></a>
-  <a href="https://github.com/aliakbarrme/whatsapp-order-button" title="WhatsApp Order Button: WooCommerce button that sends product, size, quantity and price to your WhatsApp in one tap. Plus a floating chat button."><img src="assets/whatsapp-order.svg" width="380" alt="WhatsApp Order Button – GitHub" title="WhatsApp Order Button: WooCommerce button that sends product, size, quantity and price to your WhatsApp in one tap. Plus a floating chat button." /></a>
-</p>
-<p align="center">
-  <a href="https://github.com/aliakbarrme/site-health-mini-dashboard" title="Site Health Mini Dashboard: one admin widget with a 0–100 score for updates, heavy images, missing alt text, SSL, PHP and debug mode."><img src="assets/site-health.svg" width="380" alt="Site Health Mini Dashboard – GitHub" title="Site Health Mini Dashboard: one admin widget with a 0–100 score for updates, heavy images, missing alt text, SSL, PHP and debug mode." /></a>
+  <a href="https://github.com/aliakbarrme/ai-faq-chatbot-lite" title="AI FAQ Chatbot Lite: a chat widget that answers visitors from your FAQ 24/7. Works without any API; optional OpenAI answers grounded in your FAQ."><img src="assets/ai-faq-chatbot.svg" alt="AI FAQ Chatbot Lite – GitHub" title="AI FAQ Chatbot Lite: a chat widget that answers visitors from your FAQ 24/7. Works without any API; optional OpenAI answers grounded in your FAQ." /></a>
+  <a href="https://github.com/aliakbarrme/whatsapp-order-button" title="WhatsApp Order Button: WooCommerce button that sends product, size, quantity and price to your WhatsApp in one tap. Plus a floating chat button."><img src="assets/whatsapp-order.svg" alt="WhatsApp Order Button – GitHub" title="WhatsApp Order Button: WooCommerce button that sends product, size, quantity and price to your WhatsApp in one tap. Plus a floating chat button." /></a>
+  <a href="https://github.com/aliakbarrme/site-health-mini-dashboard" title="Site Health Mini Dashboard: one admin widget with a 0–100 score for updates, heavy images, missing alt text, SSL, PHP and debug mode."><img src="assets/site-health.svg" alt="Site Health Mini Dashboard – GitHub" title="Site Health Mini Dashboard: one admin widget with a 0–100 score for updates, heavy images, missing alt text, SSL, PHP and debug mode." /></a>
 </p>
 
 ## 🤝 Let's Work Together
