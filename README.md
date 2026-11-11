@@ -65,6 +65,11 @@
   <a href="https://github.com/aliakbarrme/site-health-mini-dashboard" title="Site Health Mini Dashboard: one admin widget with a 0–100 score for updates, heavy images, missing alt text, SSL, PHP and debug mode."><img src="assets/site-health.svg" alt="Site Health Mini Dashboard – GitHub" title="Site Health Mini Dashboard: one admin widget with a 0–100 score for updates, heavy images, missing alt text, SSL, PHP and debug mode." /></a>
 </p>
 
+<h3 align="center">🧩 Chrome extensions · free, open source</h3>
+<p align="center">
+  <a href="https://github.com/aliakbarrme/1click-video-downloader" title="1-Click Video Downloader: IDM-style Chrome extension. A Download button on any video, pick quality (1080p, 720p, MP3) and folder. YouTube, Facebook, TikTok and 1000+ sites."><img src="assets/video-downloader.svg" alt="1-Click Video Downloader – GitHub" title="1-Click Video Downloader: IDM-style Chrome extension. A Download button on any video, pick quality (1080p, 720p, MP3) and folder. YouTube, Facebook, TikTok and 1000+ sites." /></a>
+</p>
+
 ## 🤝 Let's Work Together
 
 Need a WordPress website that looks professional, loads fast and brings in leads, or an AI chatbot for your site?
